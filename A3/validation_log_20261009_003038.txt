@@ -1,0 +1,23 @@
+Row 6942 (EmployeeID: 206119.0):
+   - Name cannot be null, empty, or duplicated.
+
+Row 7919 (EmployeeID: 232932.0):
+   - Name cannot be null, empty, or duplicated.
+
+Row 9044 (EmployeeID: 221765.0):
+   - JobTitle did not match or is empty.
+
+Row 13090 (EmployeeID: 469045.0):
+   - Name cannot be null, empty, or duplicated.
+
+Row 14321 (EmployeeID: 201397.0):
+   - Name cannot be null, empty, or duplicated.
+
+Error Summary:
+                             Error Message  Count
+Name cannot be null, empty, or duplicated.      4
+       JobTitle did not match or is empty.      1
+
+Total Rows Processed: 14321
+Total Rows with Errors: 5
+Total Error Messages: 5  <-- graded count (must be < 50)
